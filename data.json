@@ -22,6 +22,12 @@
         "name":"Shinchan",
         "genre":["Cute","Comedy-drama"],
         "volumes":88
-        }
+        },
+    {
+        "id":6,
+        "name":"Bandbudh Aur Budbak",
+        "genre":["Indian","Comedy-drama"],
+        "volumes":2
+        },
     
 ]
