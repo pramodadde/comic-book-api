@@ -53,6 +53,12 @@
         "genre":["Cute","Comedy-drama"],
         "volumes":88
         },
+    {
+        "id":6,
+        "name":"Bandbudh Aur Budbak",
+        "genre":["Indian","Comedy-drama"],
+        "volumes":2
+        },
      {
         "id":9,
         "name":"Y The Last Man ",
