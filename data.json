@@ -4,6 +4,12 @@
         "name":"Kiteretsu Daihyakka",
         "genre":["Science Fiction","Comedy-drama"],
         "volumes":6
+        },
+    {
+        "id":2,
+        "name":"A.X.E.: Avengers (2022) #1",
+        "genre":["Science Fiction","Superhero"],
+        "volumes":1
         }
     
 ]
