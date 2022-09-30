@@ -54,6 +54,13 @@
         "volumes":88
         },
     {
+        "id":5,
+        "name":"Chacha Chowdhury",
+        "genre":["Comedy-drama","Superhero"],
+        "volumes":10,
+        "artist":"PranKumar Sharma"
+        },
+    {
         "id":6,
         "name":"Bandbudh Aur Budbak",
         "genre":["Indian","Comedy-drama"],
@@ -78,8 +85,7 @@
 		"name": "Spy Family",
 		"genre": ["Mystry", "Suspence"],
 		"volumes": 6
-	},
-    
+	},    
 
 	{
 		"id": 6,
