@@ -4,6 +4,11 @@
         "name":"Kiteretsu Daihyakka",
         "genre":["Science Fiction","Comedy-drama"],
         "volumes":6
+        },
+    {
+        "id":2,
+        "name":"Marvel Encyclopedia",
+        "genre":["Encyclopedia","Reference Work"],
+        "volumes":15
         }
-    
 ]
